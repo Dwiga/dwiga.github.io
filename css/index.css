@@ -58,7 +58,7 @@ body {
 
 .main {   
   -ms-flex: 70%; /* IE10 */
-  flex: 70%;
+  flex: 35%;
   background-color: white;
   padding: 20px;
 }
