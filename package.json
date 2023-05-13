@@ -1,7 +1,13 @@
 {
   "name": "dwiga.github",
   "version": "1.0.0",
-  "keywords": ["util", "functional", "server", "client", "browser"],
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
   "author": "dwihy",
   "contributors": [],
   "scripts": {
@@ -19,5 +25,8 @@
     "tailwindcss": "^3.3.1",
     "vite": "^4.3.1"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
 }
